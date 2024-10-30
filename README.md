@@ -10,7 +10,7 @@ There is a notebook file and a yaml file. The yaml file is where the values are 
 # How to play with this program
 First, you need to be able to run python code on your machine, so be sure you install the necessary packages.
 
-Second, you need to download these files and save them in the same folder on your desktop. I have supplied a folder with the files inside it to make it easier.
+Second, you need to download these files and save them in the same folder on your desktop. Name the folder "User Controlled Data Science".
 
 Third, open the notebook in your IDE and the yaml file in notepad.
 

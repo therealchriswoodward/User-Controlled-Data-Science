@@ -1,0 +1,11 @@
+visualization:
+  type: histogram  # Options: histogram, bar, line
+  bins: 5          # If you want a histogram
+  color: black     # Choose your favorite color or a hex code
+  title: My Visualization     # Name your visualization
+
+aggregate:
+  method: mean     # You may use mean, median, mode, variance, standard deviation
+
+statistics:
+  summary: false    # If you would like to see a statistical summary of the data, put "true". If not, put "false"

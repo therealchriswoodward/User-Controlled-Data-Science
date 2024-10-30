@@ -18,7 +18,7 @@ There is a notebook file and a yaml file. The yaml file is where the values are 
 
 * Fifth, change some values in the yaml file within the given limitations and save the file.
 
-* Sixth, run the notebook again to see the difference your changes made. If errors occur, ensure you are using the options I gave you or that the color you chose is supported. It's best to keep it simple with "black", "red", "blue", "pink", etc.
+* Sixth, run the notebook again to see the difference your changes made. If errors occur, ensure you are using the options I gave you or that the color you chose is supported. It's best to keep it simple with "black", "red", "blue", "pink", etc; although you can use hex code if you wish.
 
 # Benefits
 This simple project is a very simple data pipeline displaying how the data moves from the source to the visualization with a flexible program structure. This type of programming allows the data scientist to use a different configuration file with the same code rather than rewrite code. There may be a development stage, testing stage, as well as a production stage each of which require different values; this is where using configuration comes in handy. Same code, different project, very readable.
